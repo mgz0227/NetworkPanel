@@ -21,8 +21,6 @@
       <IPinfoUI :isVisible="isVisible" />
     </el-main>
   </el-container>
-  </el-dialog>
-  </el-dialog>
 </template>
 
 <script lang="ts" setup>
