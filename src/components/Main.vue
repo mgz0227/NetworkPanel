@@ -106,8 +106,7 @@
           </svg>
         </a>
       </div>
-      <el-button style="float: left;margin-top: -20px;margin-right: 3px" type="primary" :icon="Histogram" link
-        @click="showMark.show = true" />
+
         <el-button style="float: left;margin-top: -20px;margin-left: 39px" type="primary" :icon="FullScreen" link
         @click="isFullScreen = true" />
       <el-button style="float: right;margin-top: -20px;margin-right: 3px" type="primary" :icon="TrendCharts" link
