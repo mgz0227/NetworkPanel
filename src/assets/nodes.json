@@ -1,10 +1,24 @@
 {
 	"运营商":{
 		"咪咕视频":"https://img.cmvideo.cn/publish/noms/2023/12/06/1O4SHFIFR36BD.gif",
-		"移动云盘":"https://yun.mcloud.139.com/hongseyunpan/2.43G.zip",
+		"移动云盘①":"https://yun.mcloud.139.com/hongseyunpan/2.43G.zip",
+		"移动云盘②":"https://yun.mcloud.139.com/mCloudPc/v832/mCloud_Setup-001.exe",
+		"移动云盘③":"https://yun.mcloud.139.com/mCloud/mCloud_12.6.0_30126032_000.apk",
 		"和彩云":"https://img.mcloud.139.com/material_prod/material_media/20221128/1669626861087.png",
-		"联通电视":"NetworkPanelApi://listen.10155.com",
-		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe"
+		"天翼云桌面":"https://desk.ctyun.cn:8999/desktop-prod/software/windows_tob_client/15/64/202030001/CtyunClouddeskUniversal_2.3.0_202030001_x86_20240327104015_Setup.exe",
+		"联通云-CORS":"https://www.cucloud.cn/upload/1752775318012.mp4",
+		"联通云盘-CORS":"https://pan.wo.cn/img/login-bg1.e55e7805.png"
+
+	},
+	"第三方":{
+		"UC":"https://image.uc.cn/s/uae/g/3o/broccoli/resource/202401/zry_video.mp4",
+		"腾讯云":"https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-latest.exe",
+		"VIVO":"https://wwwstatic.vivo.com.cn/vivoportal/files/resource/funtouch/1651200648928/images/os2-jude-video.mp4",
+		"米忽悠CDN":"https://upload-bbs.miyoushe.com/upload/2024/10/25/288909600/9979574bd093f12275039c7a4c4b15fe_6624839044782863074.jpg",
+		"米忽悠布丁-CORS":"https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_4.7.0_5.0.0_hdiff_cEouBwfybWNuhcWP.zip",
+		"米忽悠星铁":"https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/download/StarRail_4.2.0.7z.001",
+		"米忽悠ZZZ":"https://autopatchcn.juequling.com/package_download/op/client_app/download/20260309103618_mkDL8E0hMidGEPPf/VolumeZip/juequling_2.7.0_AS.zip.001",
+		"123网盘安装包EXE-CORS":"https://app.123pan.com/pc-pro/windows/218/123pan_2.1.8.exe"
 	},
 	"全球[Global]":{
 		"Cachefly":"https://web1.cachefly.net/speedtest/downloading",
