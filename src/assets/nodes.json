@@ -15,10 +15,10 @@
 		"腾讯云":"https://cos5.cloud.tencent.com/cosbrowser/cosbrowser-setup-latest.exe",
 		"VIVO":"https://wwwstatic.vivo.com.cn/vivoportal/files/resource/funtouch/1651200648928/images/os2-jude-video.mp4",
 		"米忽悠CDN":"https://upload-bbs.miyoushe.com/upload/2024/10/25/288909600/9979574bd093f12275039c7a4c4b15fe_6624839044782863074.jpg",
-		"米忽悠布丁-CORS":"https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_4.7.0_5.0.0_hdiff_cEouBwfybWNuhcWP.zip",
+		"米忽悠布丁":"https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_4.7.0_5.0.0_hdiff_cEouBwfybWNuhcWP.zip",
 		"米忽悠星铁":"https://autopatchcn.bhsr.com/client/cn/20260416111723_yjnthyEQoyS8Mw8v/PC/download/StarRail_4.2.0.7z.001",
 		"米忽悠ZZZ":"https://autopatchcn.juequling.com/package_download/op/client_app/download/20260309103618_mkDL8E0hMidGEPPf/VolumeZip/juequling_2.7.0_AS.zip.001",
-		"123网盘安装包EXE-CORS":"https://app.123pan.com/pc-pro/windows/218/123pan_2.1.8.exe"
+		"123网盘":"https://app.123pan.com/pc-pro/windows/218/123pan_2.1.8.exe"
 	},
 	"全球[Global]":{
 		"Cachefly":"https://web1.cachefly.net/speedtest/downloading",
